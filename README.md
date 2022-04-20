@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AdrianaEFRocha.
 - 👀 I’m interested in fascinating things.
 - 🌱 I’m currently learning PHP.
-- 💞️ I’m looking to collaborate on my learning.
+- 💞️ I’m looking to collaborate with my learning.
 - 📫 How to reach me: contact e-mail adrianalibras@gmail.com.
 
 <!---

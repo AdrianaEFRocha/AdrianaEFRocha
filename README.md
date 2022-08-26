@@ -1,6 +1,6 @@
 ### Hello there! <img src="https://github.com/AdrianaEFRocha/AdrianaEFRocha/blob/main/images/hand-shake.gif" width="30px"/>
 
-I am **studying development** to bring innovative solutions!
+I am a student of **Information Technology** solutions!!
 
 - 💻 I use daily: `git`, `php`
 - 🌱 Constant learning
